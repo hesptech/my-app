@@ -1,2 +1,0 @@
-# my-app
-angular test
